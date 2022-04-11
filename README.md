@@ -8,10 +8,14 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import pandas module.
+2. Read the required csv file using pandas.
+3. Import LabEncoder module.
+4. From sklearn import logistic regression.
+5. Predict the values of array.
+6. Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+7. print the required values.
+8. End the program. 
 
 ## Program:
 ```
@@ -62,6 +66,7 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
+k
 
 
 ## Result:
