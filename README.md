@@ -66,7 +66,15 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-k
+
+![img1](https://user-images.githubusercontent.com/94883876/162769486-ecc12f9a-93ee-43c0-b8e4-b01f259878b0.png)
+![img2](https://user-images.githubusercontent.com/94883876/162769564-bbd48196-8593-441d-b330-fdbe11103d8d.png)
+![img3](https://user-images.githubusercontent.com/94883876/162769588-fdaa4ac3-2f4c-4407-923c-2fc09857f24d.png)
+![img4](https://user-images.githubusercontent.com/94883876/162769610-4220d619-c6a1-44f4-9cd7-455a6b46ec1d.png)
+![img5](https://user-images.githubusercontent.com/94883876/162769640-f509e420-b67f-4651-a360-3464f4eb6991.png)
+![img6](https://user-images.githubusercontent.com/94883876/162769655-a9116a32-d226-4bae-b604-78ffabf7fde0.png)
+![img7](https://user-images.githubusercontent.com/94883876/162769672-62fbda43-4255-4b88-bc68-c7e51581beec.png)
+![img8](https://user-images.githubusercontent.com/94883876/162769689-5151a17e-7ac2-4509-a5dc-1ea60c13539c.png)
 
 
 ## Result:
